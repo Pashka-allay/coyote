@@ -1,8 +1,6 @@
 body {
     margin: 0;
     font-family: "Comic Sans MS", cursive;
-    /* background: linear-gradient(45deg, #ff69b4, #ff1493); */
-    /* background: linear-gradient(135deg, orange 60%, cyan); */
     background: conic-gradient(at 0% 23%, #f94449 11%, #e6cc00 35%, #90e0ef 50%);
     color: white;
     text-align: center;
